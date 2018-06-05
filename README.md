@@ -3,5 +3,5 @@
 <li>By: Niclas Victorsson</li>
 <li>Created with React</li>
 <li>Github repository: https://github.com/NiclasV/react-dashboard</li>
-<li>See it here:</li>
+<li>Preview it: https://gyazo.com/8ff697603e91c0cfcc7f858ea4ceb948</li>
 </ul>
